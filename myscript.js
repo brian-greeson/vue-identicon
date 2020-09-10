@@ -15,7 +15,7 @@ new Vue({
   },
   template: `
     <div>
-      <h3>My Identicon Generator</h3>
+      <h3>Identicon Generator</h3>
       <div>
         Input:
         <input v-on:input="onInput" />
